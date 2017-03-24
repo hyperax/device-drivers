@@ -26,7 +26,7 @@ allprojects {
 
 ```
 dependencies {
-    compile 'com.github.evotor:device-drivers:1.2.0+'
+    compile 'com.github.evotor:device-drivers:v1.2.0+'
 }
 ```
 <a name="102"></a>
